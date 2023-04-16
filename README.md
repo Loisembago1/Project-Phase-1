@@ -25,9 +25,13 @@ Recommendations
 Based on the data analysis findings, the following recommendations are proposed for the movie industry:
 
 Recommendation 1: Focus on producing movies in genres with high demand, as identified in the IMDb data analysis.
+
 Recommendation 2: Invest in marketing and distribution strategies to boost domestic gross revenue, as suggested by the BOM data analysis.
+
 Recommendation 3: Collaborate with movie studios with a strong distribution network, as revealed in the RT info data analysis.
+
 Conclusion
+
 In conclusion, this data analysis project provides insights and recommendations for the movie industry based on the analysis of multiple datasets. The findings and recommendations can be used by movie industry stakeholders, such as production companies, studios, and marketers, to inform decision-making and improve business strategies.
 
 
