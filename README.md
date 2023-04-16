@@ -1,4 +1,4 @@
-# Project-Phase-1
+# Data Analysis for Microsoft movie insights
 Movie Data Analysis Project
 This project aims to analyze movie data from various datasets, including IMDb, BOM, RT, TMDB, and TN. The analysis is conducted using Python and its data manipulation and visualization libraries, such as Pandas, Matplotlib, and Seaborn.
 
