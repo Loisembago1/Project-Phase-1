@@ -1,6 +1,6 @@
-# Data Analysis for Microsoft movie insights
-Movie Data Analysis Project
-This project aims to analyze movie data from various datasets, including IMDb, BOM, RT, TMDB, and TN. The analysis is conducted using Python and its data manipulation and visualization libraries, such as Pandas, Matplotlib, and Seaborn.
+# Movie Data Analysis Project
+This project aims to analyze movie data from various datasets, including IMDb, BOM, RT, TMDB, and TN. 
+The analysis is conducted using Python and its data manipulation and visualization libraries, such as Pandas, Matplotlib, and Seaborn.
 
 Datasets
 The following datasets were used in this analysis:
@@ -10,7 +10,9 @@ bom.movie_gross.csv.gz: Compressed CSV file containing box office gross revenue 
 rt.movie_info.tsv.gz and rt.reviews.tsv.gz: Compressed TSV files containing movie information and reviews data from RT.
 tmdb.movies.csv.gz: Compressed CSV file containing movie data from TMDB.
 tn.movie_budgets.csv.gz: Compressed CSV file containing movie budget data from TN.
+
 Data Analysis Steps
+
 Data Preprocessing: The datasets were cleaned and preprocessed to handle missing data, convert data types, and format data appropriately for analysis. The code for data preprocessing can be found in the data_preprocessing.ipynb notebook.
 
 Data Analysis:
