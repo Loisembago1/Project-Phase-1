@@ -32,7 +32,7 @@ Recommendation 3: Collaborate with movie studios with a strong distribution netw
 
 Conclusion
 
-In conclusion, this data analysis project provides insights and recommendations for the movie industry based on the analysis of multiple datasets. The findings and recommendations can be used by movie industry stakeholders, such as production companies, studios, and marketers, to inform decision-making and improve business strategies.
+In conclusion, this data analysis project provides insights and recommendations for the movie industry based on the analysis of multiple datasets. The findings and recommendations can be used by Microsoft industry stakeholder for production , studios, and marketers, to inform decision-making and improve business strategies.
 
 
 
